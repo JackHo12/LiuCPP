@@ -1,0 +1,83 @@
+Main field of study
+Computer Science and Engineering, Computer Science
+Course level
+First cycle
+Advancement level
+G2F
+Specific information
+Can not be included in the degree together with TDDD33.
+
+Course offered for
+Master of Science in Chemical Biology
+Master of Science in Mechanical Engineering
+Master of Science in Engineering Biology
+Master of Science in Information Technology
+Master of Science in Energy - Environment - Management
+Master of Science in Design and Product Development
+Master of Science in Industrial Engineering and Management - International
+Master of Science in Industrial Engineering and Management
+Master's Programme in Mechanical Engineering
+Master's Programme in Computer Science
+Master's Programme in Cybersecurity
+Prerequisites
+Skill in one imperative, object-oriented or functional programming language.
+
+Intended learning outcomes
+After the course, the student should be able to:
+
+use basic language constructs and the language's standard library
+use design principles, methods and techniques used in object-oriented programming to construct programs that solve given problems
+Course content
+Programming: Creating algorithms and problem solving.
+Syntax: C++ language features including control statements, operators and types, references, pointers, exceptions, classes, functions, dynamic memory, templates, inheritance, polymorphism and the standard template library.
+Tools: Linux terminal based programming environment with program editor, compiler, debugger and versioning system.
+Teaching and working methods
+The course consists of:
+
+A set of lectures introducing each of the areas of C++ language that we cover. Participating in lectures, lessons and labs is essential to gain all course content.
+A set of computer laborations performed in pairs.
+Self studies in order to prepare and complete each laboration on time.
+A final individual computer exam with problems covering the topics discussed at lectures, lessons and labs.
+The course runs over the entire autumn semester.
+
+Examination
+UPG1	Programming assignments	4 credits	U, G
+DAT1	Computer examination	2 credits	U, 3, 4, 5
+Grades for examination modules are decided in accordance with the assessment criteria presented at the start of the course.
+
+Grades
+Four-grade scale, LiU, U, 3, 4, 5
+Other information
+Supplementary courses
+Advanced Programming in C++
+
+About teaching and examination language
+The teaching language is presented in the Overview tab for each course. The examination language relates to the teaching language as follows: 
+
+If teaching language is “Swedish”, the course as a whole could be given in Swedish, or partly in English. Examination language is Swedish, but parts of the examination can be in English.
+If teaching language is “English”, the course as a whole is taught in English. Examination language is English.
+If teaching language is “Swedish/English”, the course as a whole will be taught in English if students without prior knowledge of the Swedish language participate. Examination language is Swedish or English depending on teaching language.
+Other
+The course is conducted in such a way that there are equal opportunities with regard to sex, transgender identity or expression, ethnicity, religion or other belief, disability, sexual orientation and age.
+
+The planning and implementation of a course should correspond to the course syllabus. The course evaluation should therefore be conducted with the course syllabus as a starting point. 
+
+The course is campus-based at the location specified for the course, unless otherwise stated under “Teaching and working methods”. Please note, in a campus-based course occasional remote sessions could be included.  
+
+Department
+Institutionen för datavetenskap
+Course literature
+Compulsory literature
+Websites
+Course homepage https://www.ida.liu.se/~TDDE18
+Other
+C++ Primer (5th edition or later) by Lippman, Lajoie and Moo, or other relevant book covering C++2011 standard. See course homepage for further material and recommendations.
+
+Additional literature
+Books
+Lippman, Stanley B., Lajoie, Josée, Moo, Barbara E., (2013) C++ primer. 5. ed. Upper Saddle River, N.J. : Addison-Wesley, 2013
+ISBN: 0321714113, 9780321714114
+Stroustrup, Bjarne, (2014) Programming : principles and practice using C++ 2. ed. Upper Saddle River, NJ [u.a.] : Addison-Wesley, 2014
+ISBN: 9780321992789, 0321992784
+Websites
+C++ reference https://en.cppreference.com/
