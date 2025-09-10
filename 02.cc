@@ -4,7 +4,6 @@
 using namespace std;
 
 // getNum is a function that gets a number from user input with validation
-void getNum(float &num, float compareNum, string a1, string a2);
 void getNum(float &num, float compareNum, string a1, string a2) {
     while (true) {
         cout << "Enter " << a1 << ": "<< flush;
